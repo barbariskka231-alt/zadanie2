@@ -1,0 +1,8 @@
+streamlit>=1.30.0
+easyocr>=1.7.1
+torch>=2.0.0
+transformers>=4.35.0
+pdf2image>=1.17.0
+pillow>=10.0.0
+numpy>=1.24.0
+pandas>=2.0.0
